@@ -73,5 +73,3 @@ This project is licensed under the MIT License — you are free to use and modif
 ---
 
 ⭐ If you like this project, give it a star on GitHub!
-
----
